@@ -1,0 +1,4 @@
+dataNum: 1689188
+userNum: 192403
+itemNum: 63001
+data densiy: 0.00000001
